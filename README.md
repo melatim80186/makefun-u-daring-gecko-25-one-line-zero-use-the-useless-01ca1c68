@@ -1,3 +1,7 @@
+[![make.fun · u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/melatim80186/makefun-u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/melatim80186/makefun-u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68)
+
 # One Line, Zero Use — entry
 
 Entry for make.fun competition `u-daring-gecko-25-one-line-zero-use-the-useless-01ca1c68`
